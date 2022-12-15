@@ -1,0 +1,3 @@
+D:/Desktop/Weber State/03 Try it out - Fifth Element/03-Try-it-out-Fifth-Element/cmake-build-debug/CMakeFiles/03_Try_it_out_Fifth_Element.dir
+D:/Desktop/Weber State/03 Try it out - Fifth Element/03-Try-it-out-Fifth-Element/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/Weber State/03 Try it out - Fifth Element/03-Try-it-out-Fifth-Element/cmake-build-debug/CMakeFiles/rebuild_cache.dir
