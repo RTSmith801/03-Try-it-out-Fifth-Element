@@ -1,0 +1,11 @@
+# ninja log v5
+4	122	6929447109236505	CMakeFiles/03_Try_it_out_Fifth_Element.dir/LinkedList.cpp.obj	f83cedfa609b2387
+1	1633	6929448030342790	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElement.cpp.obj	b6ea6a1e010be493
+5	1024	6929448371715473	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7bd0210f778d9d32
+1025	1363	6929448375673747	03_Try_it_out_Fifth_Element.exe	63892befda226e98
+4	491	6929489152719006	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElement.cpp.obj	b6ea6a1e010be493
+8	505	6929489152888929	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7bd0210f778d9d32
+505	847	6929489156242525	03_Try_it_out_Fifth_Element.exe	63892befda226e98
+4	436	6929493666922738	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7bd0210f778d9d32
+437	724	6929493669761501	03_Try_it_out_Fifth_Element.exe	63892befda226e98
+7	2872	6929529718569308	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElement.cpp.obj	b6ea6a1e010be493

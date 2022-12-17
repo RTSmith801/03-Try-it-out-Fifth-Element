@@ -7,8 +7,8 @@
  *
  */
 
-#ifndef INC_03_LEARING_ACTIVITY_LINKEDLIST_LINKEDLIST_H
-#define INC_03_LEARING_ACTIVITY_LINKEDLIST_LINKEDLIST_H
+#ifndef LINKED_LIST_H
+#define LINKED_LIST_H
 
 #include <stdexcept>
 #include <iostream>
@@ -134,4 +134,4 @@ std::ostream& operator<<(std::ostream& out, const LinkedList<Type>& list){
     return out;
 }
 
-#endif //INC_03_LEARING_ACTIVITY_LINKEDLIST_LINKEDLIST_H
+#endif //LINKEDLIST_H
