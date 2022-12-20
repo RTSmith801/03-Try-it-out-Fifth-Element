@@ -8,4 +8,4 @@ include_directories(.)
 add_executable(03_Try_it_out_Fifth_Element
         FifthElement.h
         FifthElementTester.cpp
-        LinkedList.h FifthElement.cpp LinkedList.cpp)
+        LinkedList.h)

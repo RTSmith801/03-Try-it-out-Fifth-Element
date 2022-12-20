@@ -56,20 +56,6 @@ build CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj: CXX
   OBJECT_DIR = CMakeFiles\03_Try_it_out_Fifth_Element.dir
   OBJECT_FILE_DIR = CMakeFiles\03_Try_it_out_Fifth_Element.dir
 
-build CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElement.cpp.obj: CXX_COMPILER__03_Try_it_out_Fifth_Element_Debug D$:/Desktop/Weber$ State/03$ Try$ it$ out$ -$ Fifth$ Element/03-Try-it-out-Fifth-Element/FifthElement.cpp || cmake_object_order_depends_target_03_Try_it_out_Fifth_Element
-  DEP_FILE = CMakeFiles\03_Try_it_out_Fifth_Element.dir\FifthElement.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -I"D:/Desktop/Weber State/03 Try it out - Fifth Element/03-Try-it-out-Fifth-Element/."
-  OBJECT_DIR = CMakeFiles\03_Try_it_out_Fifth_Element.dir
-  OBJECT_FILE_DIR = CMakeFiles\03_Try_it_out_Fifth_Element.dir
-
-build CMakeFiles/03_Try_it_out_Fifth_Element.dir/LinkedList.cpp.obj: CXX_COMPILER__03_Try_it_out_Fifth_Element_Debug D$:/Desktop/Weber$ State/03$ Try$ it$ out$ -$ Fifth$ Element/03-Try-it-out-Fifth-Element/LinkedList.cpp || cmake_object_order_depends_target_03_Try_it_out_Fifth_Element
-  DEP_FILE = CMakeFiles\03_Try_it_out_Fifth_Element.dir\LinkedList.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -I"D:/Desktop/Weber State/03 Try it out - Fifth Element/03-Try-it-out-Fifth-Element/."
-  OBJECT_DIR = CMakeFiles\03_Try_it_out_Fifth_Element.dir
-  OBJECT_FILE_DIR = CMakeFiles\03_Try_it_out_Fifth_Element.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 03_Try_it_out_Fifth_Element
@@ -78,7 +64,7 @@ build CMakeFiles/03_Try_it_out_Fifth_Element.dir/LinkedList.cpp.obj: CXX_COMPILE
 #############################################
 # Link the executable 03_Try_it_out_Fifth_Element.exe
 
-build 03_Try_it_out_Fifth_Element.exe: CXX_EXECUTABLE_LINKER__03_Try_it_out_Fifth_Element_Debug CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElement.cpp.obj CMakeFiles/03_Try_it_out_Fifth_Element.dir/LinkedList.cpp.obj
+build 03_Try_it_out_Fifth_Element.exe: CXX_EXECUTABLE_LINKER__03_Try_it_out_Fifth_Element_Debug CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\03_Try_it_out_Fifth_Element.dir
