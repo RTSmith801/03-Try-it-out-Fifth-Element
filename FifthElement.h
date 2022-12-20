@@ -3,20 +3,23 @@
  * @assignment_name: 03: Try it out: Fifth Element
  * @author: Rick Smith (rickysmith@mail.weber.edu)
  * @date: 12/13/2022
- * @brief: This program will cover review Inheritance and give you practice with handling pointers in Linked Lists.
+ * @brief: This program will cover Inheritance and practice handling pointers in Linked Lists.
  *
  */
 
-#ifndef INC_03_TRY_IT_OUT_FIFTH_ELEMENT_FIFTHELEMENT_H
-#define INC_03_TRY_IT_OUT_FIFTH_ELEMENT_FIFTHELEMENT_H
-
+#ifndef FIFTH_ELEMENT_H
+#define FIFTH_ELEMENT_H
 #include "LinkedList.h"
 
+<<<<<<< HEAD
 template<class Type>
 class FifthElement: public LinkedList<Type>{
+=======
+
+class FifthElement: public LinkedList<class Type>{
+>>>>>>> b7df90d1b006df16904faaff3d238502a4d8dad0
 
     private:
-
 
     public:
 
@@ -53,4 +56,5 @@ void FifthElement<Type>::swapFourthAndFifthElement(){
 }
 
 
-#endif //INC_03_TRY_IT_OUT_FIFTH_ELEMENT_FIFTHELEMENT_H
+
+#endif //FIFTH_ELEMENT__H

@@ -1,7 +1,20 @@
 # ninja log v5
+<<<<<<< HEAD
 1	378	6932112947402491	build.ninja	ad34b76db124db67
 4	564	6932101475554912	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7d75a1f5a81a3b2d
 564	716	6932101477032954	03_Try_it_out_Fifth_Element.exe	10e4ec066707d010
 1	168	6932112947402491	build.ninja	ad34b76db124db67
 0	516	6932112953204017	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7d75a1f5a81a3b2d
 516	647	6932112954441564	03_Try_it_out_Fifth_Element.exe	10e4ec066707d010
+=======
+4	122	6929447109236505	CMakeFiles/03_Try_it_out_Fifth_Element.dir/LinkedList.cpp.obj	f83cedfa609b2387
+1	1633	6929448030342790	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElement.cpp.obj	b6ea6a1e010be493
+5	1024	6929448371715473	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7bd0210f778d9d32
+1025	1363	6929448375673747	03_Try_it_out_Fifth_Element.exe	63892befda226e98
+4	491	6929489152719006	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElement.cpp.obj	b6ea6a1e010be493
+8	505	6929489152888929	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7bd0210f778d9d32
+505	847	6929489156242525	03_Try_it_out_Fifth_Element.exe	63892befda226e98
+4	436	6929493666922738	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7bd0210f778d9d32
+437	724	6929493669761501	03_Try_it_out_Fifth_Element.exe	63892befda226e98
+7	2872	6929529718569308	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElement.cpp.obj	b6ea6a1e010be493
+>>>>>>> b7df90d1b006df16904faaff3d238502a4d8dad0
