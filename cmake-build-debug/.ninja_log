@@ -1,8 +1,4 @@
 # ninja log v5
-1	378	6932035876623904	build.ninja	ad34b76db124db67
-0	823	6932035887287044	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7d75a1f5a81a3b2d
-826	1024	6932035889247403	03_Try_it_out_Fifth_Element.exe	10e4ec066707d010
-5	878	6932036669571939	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7d75a1f5a81a3b2d
-878	1171	6932036672351599	03_Try_it_out_Fifth_Element.exe	10e4ec066707d010
+1	378	6932108805763347	build.ninja	ad34b76db124db67
 4	564	6932101475554912	CMakeFiles/03_Try_it_out_Fifth_Element.dir/FifthElementTester.cpp.obj	7d75a1f5a81a3b2d
 564	716	6932101477032954	03_Try_it_out_Fifth_Element.exe	10e4ec066707d010
